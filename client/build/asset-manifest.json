@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85797e35.chunk.css",
+    "main.js": "/static/js/main.45a9f540.chunk.js",
+    "main.js.map": "/static/js/main.45a9f540.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7545a8a1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7545a8a1.js.map",
+    "static/js/2.af4d1c1a.chunk.js": "/static/js/2.af4d1c1a.chunk.js",
+    "static/js/2.af4d1c1a.chunk.js.map": "/static/js/2.af4d1c1a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.85797e35.chunk.css.map": "/static/css/main.85797e35.chunk.css.map",
+    "static/js/2.af4d1c1a.chunk.js.LICENSE.txt": "/static/js/2.af4d1c1a.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.0f69dcdb.woff",
+    "static/media/boxicons.min.css": "/static/media/boxicons.cbd149c5.ttf",
+    "static/media/logo.f5110f19.png": "/static/media/logo.f5110f19.png",
+    "static/media/style.css": "/static/media/main1.e583f03a.jpg",
+    "static/media/remixicon.css": "/static/media/remixicon.f2616f59.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7545a8a1.js",
+    "static/js/2.af4d1c1a.chunk.js",
+    "static/css/main.85797e35.chunk.css",
+    "static/js/main.45a9f540.chunk.js"
+  ]
+}
