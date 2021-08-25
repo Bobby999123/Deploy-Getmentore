@@ -1,0 +1,21 @@
+.rightbar{
+    flex: 2;
+    /* position: fixed; */
+    /* top: 0; */
+}
+.rightWrapper{
+    margin: 30px;
+}
+.search-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: #8c3590;
+    color: white;
+}
+@media only screen and (max-width: 600px) {
+    .rightbar{
+        display: none;
+    }
+}

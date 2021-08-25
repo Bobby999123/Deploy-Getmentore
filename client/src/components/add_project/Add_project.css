@@ -1,0 +1,42 @@
+.postWrapper {
+  display: flex;
+  border-radius: 10px;
+  margin: 20px 0px;
+  box-shadow: 0px -1px 40px 1px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0px -1px 40px 1px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0px -1px 40px 1px rgba(0, 0, 0, 0.5);
+}
+.postCenter {
+  margin: 20px 30px;
+}
+.postImg {
+  height: 250px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+h2 {
+  font-weight: 600;
+  font-style: oblique;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.mentorImg {
+  width: 40px;
+  border-radius: 999px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.btn-get-started {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  background-color: #8c3590;
+  color: white;
+}
