@@ -1,7 +1,7 @@
 {
   "name": "rest-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "getmentore backend",
   "main": "index.js",
   "engines": {
     "node": "v14.16.1"
@@ -9,23 +9,25 @@
   "scripts": {
     "server": "nodemon index.js",
     "client": "npm start --prefix client",
-    "dev": "concurrently run \"npm run server\"  \"npm run client\""
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "author": "bobby",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.13.1",
     "bcrypt": "^5.0.1",
     "concurrently": "^6.2.0",
     "dotenv": "^10.0.0",
-    "express": "^4.17.1",
+    "express": "^4.21.2",
     "express-validator": "^6.12.0",
     "helmet": "^4.6.0",
-    "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.13.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.19.2",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.12",
     "react-alert": "^7.0.3",
     "react-redux": "^7.2.4",
+    "react-scripts": "^5.0.1",
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^2.3.0",
     "validator": "^13.6.0"

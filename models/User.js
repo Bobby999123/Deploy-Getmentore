@@ -82,7 +82,7 @@ UserSchema.methods.getAuthToken = async function () {
     );
     return token;
   } catch (err) {
-    return null;
+    return null;  
   }
 };
 
