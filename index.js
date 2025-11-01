@@ -14,10 +14,7 @@ const port = process.env.PORT || 8800;
 
 mongoose.connect(
   process.env.MONGO_URL,
-  { useNewUrlParser: true, useCreateIndex: true, useUnifiedTopology: true },
-  () => {
-    console.log("Connected to MongoDB");
-  }
+  { useNewUrlParser: true, useUnifiedTopology: true }
 );
 
 //middleware
